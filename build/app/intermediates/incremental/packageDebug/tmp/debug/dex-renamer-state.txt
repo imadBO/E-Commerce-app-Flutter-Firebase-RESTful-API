@@ -1,0 +1,4 @@
+#Wed Sep 28 14:29:07 CET 2022
+base.0=/home/imad/MyProjects/E-Commerce-app-Flutter-Firebase-RESTful-API/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
